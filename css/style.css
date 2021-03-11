@@ -78,12 +78,14 @@
 }
 .left-block-title{
 	font-size: 24px;
-	margin-bottom: 29.8px; 
+	margin-bottom: 29.8px;
+	font-family: 'Redressed'; 
 
 }
 .title3{
 	margin: 11.1px 275.2px 12.7px 20.8px;
 	font-size: 22px;
+	font-family: 'Redressed';
 
 }
 /*Footer styles*/
@@ -127,12 +129,14 @@
 	margin-bottom: 17.5px;
 	color: #3D58A6;
 	font-size: 22px;
+	font-family: 'Arial GEO BoldItalic';
 
 
 }
 .title{
 	margin-bottom: 16.5px;
 	font-size: 20px;
+	font-family: 'Arial GEO BoldItalic';
 	
 
 }
@@ -147,6 +151,11 @@
 }
 .news1{
 	padding-bottom: 24px;
+
+}
+p{
+	font-family: 'Arial GEO BoldItalic';
+	font-size: 16px;
 }
 /*Contact styles*/
 .container-contact{
@@ -160,6 +169,8 @@
 .contact-title{
 	color: #3D58A6;
 	font-size: 20px;
+	font-family: "Arial GEO BoldItalic", sans-serif;
+
 
 }
 span{
@@ -167,7 +178,9 @@ span{
 }
 .contact-pg{
 	font-size: 16px;
-	color: #E6E6E6
+	color: #E6E6E6;
+	font-family: "Arial GEO BoldItalic", sans-serif;
+
 
 }
 .contact-right-block{
